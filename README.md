@@ -64,5 +64,6 @@ No modules.
 | <a name="output_custom_r53_phz_arn"></a> [custom\_r53\_phz\_arn](#output\_custom\_r53\_phz\_arn) | n/a |
 | <a name="output_custom_r53_phz_id"></a> [custom\_r53\_phz\_id](#output\_custom\_r53\_phz\_id) | n/a |
 | <a name="output_vpce_endpoint_arn"></a> [vpce\_endpoint\_arn](#output\_vpce\_endpoint\_arn) | n/a |
+| <a name="output_vpce_endpoint_dns"></a> [vpce\_endpoint\_dns](#output\_vpce\_endpoint\_dns) | n/a |
 | <a name="output_vpce_endpoint_id"></a> [vpce\_endpoint\_id](#output\_vpce\_endpoint\_id) | n/a |
 <!-- END_TF_DOCS -->
